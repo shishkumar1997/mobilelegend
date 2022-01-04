@@ -1,0 +1,13 @@
+hi ashish kumar
+hello ajay
+you are good person
+meet to all of you
+<<<<<<< Updated upstream
+today i am feel better envirnment
+last time come here.
+ok guru
+hi
+=======
+sdfguytrd ytfjkiuytfbj
+iuygbnhb
+>>>>>>> Stashed changes
